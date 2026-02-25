@@ -13,7 +13,7 @@ body{
     font-weight: 600;
     transition: background 0.3s ease, transform 0.2s ease;
     margin-left: 20px;
-    margin-top: 0;
+    margin-top: -20px;
 }
 
 .back-btn:hover {
@@ -125,6 +125,7 @@ body{
 }
 
 .backgroundimage{
+    margin-top: -5px;
     background-image:
         linear-gradient(
          rgba(15, 45, 78, 0.7),
